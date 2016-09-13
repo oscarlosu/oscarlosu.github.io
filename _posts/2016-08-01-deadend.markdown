@@ -7,8 +7,9 @@ image: "img/deadend_cover.png"
 date:   2016-08-01 12:12:12
 ---
 
-![Gameplay gif](img/deadend_gif.gif)
+![Gameplay gif](img/deadend_gameplay.gif)
 
+(Work in progress)
 There’s nowhere else to go. You are trapped. Die tapping until you dodge them all!
 
 
