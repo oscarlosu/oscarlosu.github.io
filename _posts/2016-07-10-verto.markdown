@@ -9,7 +9,7 @@ date:   2016-07-10 12:12:12
 
 ### Castle Game Jam 2016
 
-![Alt text](https://youtu.be/n2j6EE6Yl-c)
+[![Trailer Thumbnail](https://i.ytimg.com/vi/GLCpNcyudvk/2.jpg?time=1473803856344)](https://youtu.be/GLCpNcyudvk)
 
 VERTO is a rhythm based shooter where the player needs to pay attention to the beat to gain the edge in this game that will truly put your abilities to the test.
 
