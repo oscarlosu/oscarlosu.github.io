@@ -1,13 +1,11 @@
 ---
 title:  "Dead End"
-subtitle: "[Subtitle]"
+subtitle: "One-button ninja-dodging"
 author: "oscarlosu"
 avatar: "img/authors/trumpet_icon.png"
 image: "img/deadend_cover.png"
 date:   2016-08-01 12:12:12
 ---
-
-### Dolor sit amet?
 
 ![Gameplay gif](img/deadend_gif.gif)
 
