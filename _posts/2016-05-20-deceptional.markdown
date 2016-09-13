@@ -7,12 +7,13 @@ image: "img/deceptional_cover.png"
 date:   2016-05-20 12:12:12
 ---
 
-![In-game iamge](img/deceptional_cover.png)
+![In-game image](img/deceptional_cover.png)
 
 Deceptional is a detective game about finding the murderer among a group of people through conversation and observation of their behavior to distinguish the lies from the truths in procedurally generated cases.
 
 ### Links
 
+[Builds](https://drive.google.com/open?id=0BwNZ_KkAVmdRZTBOQnAxZDh5U0U)
 [Repository](https://github.com/oscarlosu/Nomoreno.git)
 
 ### Team

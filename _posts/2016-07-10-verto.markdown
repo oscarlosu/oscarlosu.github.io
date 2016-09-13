@@ -19,7 +19,8 @@ Control the game using either an Xbox 360 controller or Mouse/Keyboard, and pay 
 
 ### Links
 
-[Build](https://drive.google.com/open?id=0BwNZ_KkAVmdRcHFCUFY4dnBJcUE)
+[Builds](https://drive.google.com/open?id=0BwNZ_KkAVmdRcHFCUFY4dnBJcUE)
+[Repository](https://github.com/dudesoft/CastleGameJam2016.git)
 
 ### Team
 
