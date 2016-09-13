@@ -9,21 +9,21 @@ date:   2016-07-10 12:12:12
 
 ### Castle Game Jam 2016
 
-[![Trailer Thumbnail](https://i.ytimg.com/vi/GLCpNcyudvk/2.jpg?time=1473803856344)](https://youtu.be/GLCpNcyudvk)
+<iframe width="567" height="338" src="https://www.youtube.com/embed/n2j6EE6Yl-c" frameborder="0" allowfullscreen></iframe>
+  
+VERTO is a rhythm based shooter where the player needs to pay attention to the beat to gain the edge in this game that will truly put your abilities to the test.  
 
-VERTO is a rhythm based shooter where the player needs to pay attention to the beat to gain the edge in this game that will truly put your abilities to the test.
+Make your way though a level filled with dangerous enemies as you move, shoot and transform your ship to the beat of the music.  
 
-Make your way though a level filled with dangerous enemies as you move, shoot and transform your ship to the beat of the music.
-
-Control the game using either an Xbox 360 controller or Mouse/Keyboard, and pay attention to the music as you transform your ship to different colors that can help you avoid enemy fire, or load up your arsenal.
+Control the game using either an Xbox 360 controller or Mouse/Keyboard, and pay attention to the music as you transform your ship to different colors that can help you avoid enemy fire, or load up your arsenal.  
 
 [Build](https://drive.google.com/open?id=0BwNZ_KkAVmdRcHFCUFY4dnBJcUE)
 
 ### Team
 
-Andreas Pritschet
-Benjamin Ma
-Corinne Cadalin
-Frederik Selander
-Johannes Falk Renström
-Oscar Losada
+Andreas Pritschet  
+Benjamin Ma  
+Corinne Cadalin  
+Frederik Selander  
+Johannes Falk Renström  
+Oscar Losada  

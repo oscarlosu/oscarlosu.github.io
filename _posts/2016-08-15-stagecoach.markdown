@@ -9,10 +9,10 @@ date:   2016-08-15 12:12:12
 
 ![Gameplay gif](img/stagecoach_gameplay.gif)
 
-(Work in progress)
+(Work in progress)  
 You are tasked with delivering precious cargo on your stagecoach, but the west is wild…
 
 ### Team
 
-Phillip Phoelich
-Óscar Losada
+Phillip Phoelich  
+Óscar Losada  

@@ -9,7 +9,7 @@ date:   2016-08-01 12:12:12
 
 ![Gameplay gif](img/deadend_gameplay.gif)
 
-(Work in progress)
+(Work in progress)  
 There’s nowhere else to go. You are trapped. Die tapping until you dodge them all!
 
 
@@ -18,5 +18,5 @@ There’s nowhere else to go. You are trapped. Die tapping until you dodge them 
 
 ### Team
 
-Óscar Losada
-Pablo Sarmiento
+Óscar Losada  
+Pablo Sarmiento  
