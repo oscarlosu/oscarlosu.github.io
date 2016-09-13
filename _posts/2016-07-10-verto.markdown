@@ -1,0 +1,29 @@
+---
+title:  "Verto"
+subtitle: "Rhythmic lens-flare-OD 2D shooter"
+author: "oscarlosu"
+avatar: "img/authors/trumpet_icon.png"
+image: "img/verto_cover.png"
+date:   2016-07-10 12:12:12
+---
+
+### Castle Game Jam 2016
+
+![Alt text](https://youtu.be/n2j6EE6Yl-c)
+
+VERTO is a rhythm based shooter where the player needs to pay attention to the beat to gain the edge in this game that will truly put your abilities to the test.
+
+Make your way though a level filled with dangerous enemies as you move, shoot and transform your ship to the beat of the music.
+
+Control the game using either an Xbox 360 controller or Mouse/Keyboard, and pay attention to the music as you transform your ship to different colors that can help you avoid enemy fire, or load up your arsenal.
+
+[Build](https://drive.google.com/open?id=0BwNZ_KkAVmdRcHFCUFY4dnBJcUE)
+
+### Team
+
+Andreas Pritschet
+Benjamin Ma
+Corinne Cadalin
+Frederik Selander
+Johannes Falk Renström
+Oscar Losada
