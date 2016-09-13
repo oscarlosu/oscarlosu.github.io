@@ -4,7 +4,7 @@ subtitle: "Procedural Detective Game"
 author: "oscarlosu"
 avatar: "img/authors/trumpet_icon.png"
 image: "img/deceptional_cover.png"
-date:   2016-08-15 12:12:12
+date:   2016-05-20 12:12:12
 ---
 
 ![In-game iamge](img/deceptional_cover.png)
