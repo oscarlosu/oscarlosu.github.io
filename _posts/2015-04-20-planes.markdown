@@ -2,7 +2,7 @@
 title:  "Planes are made of paper!"
 subtitle: "The Fly!"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/trumpet_icon.png"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
 ---
