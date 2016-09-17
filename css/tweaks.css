@@ -1,0 +1,17 @@
+.tweaks_description {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.card__container--closed .card__caption {
+	background-color: rgba(100, 100, 100, 0.5);
+}
+
+.card__container--closed .card__content {
+	padding: 0 0;
+}
+
+.card__content img {
+	max-width: 100%;
+}

@@ -18,6 +18,10 @@ The image above is the result of translating “Hillary Clinton and Bernie Sande
 
 UPDATE: Currently the extension is not fully functional due to recent changes in the Google search engine API.
 
+<img src="img/rebus_cover.png" alt="Translated sentence" style="
+    max-width: 100%;
+">
+
 ### Links
 
 [Repository](https://github.com/phillipphoenix/Rebus.git)
