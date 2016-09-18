@@ -5,3 +5,4 @@ keywords: Game Development, Portfolio, Oscar Losada
 author: Óscar Losada
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oscarlosu.github.io/" # the base hostname & protocol for your site
+siteimage: "/img/authors/trumpet_icon.png"
