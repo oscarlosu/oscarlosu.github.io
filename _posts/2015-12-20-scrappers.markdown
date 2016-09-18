@@ -3,7 +3,7 @@ title:  "Scrappers"
 subtitle: "Spaceship-building brawler"
 author: "oscarlosu"
 avatar: "img/authors/trumpet_icon.png"
-image: "img/scrappers_cover.jpg"
+image: "img/scrappers_cover.png"
 date:   2015-12-20 12:12:12
 ---
 
@@ -13,8 +13,8 @@ Scrappers is a local multiplayer space brawler where players build their own spa
 
 ### Links
 
-[Builds](https://drive.google.com/open?id=0BwNZ_KkAVmdRWHN1eTZjRnplUHc)
-[Repository](hhttps://github.com/oscarlosu/GameDesignProject.git)
+[Builds](https://drive.google.com/open?id=0BwNZ_KkAVmdRWHN1eTZjRnplUHc)  
+[Repository](https://github.com/oscarlosu/GameDesignProject.git)
 
 ### Team
 
