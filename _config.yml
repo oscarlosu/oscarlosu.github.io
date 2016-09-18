@@ -1,7 +1,7 @@
 # Site settings
 title: Óscar Losada - Portfolio
-description: 
+description: "I am an MSc in Games Technology student at ITU in Copenhagen and an aspiring Game Developer. I attend game jams and other game development events as volunteer or lowly participant, devour films, series and games and periodically irritate my neighbours playing the trumpet."
 keywords: Game Development, Portfolio, Oscar Losada
 author: Óscar Losada
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://oscarlosu.github.io/" # the base hostname & protocol for your site
