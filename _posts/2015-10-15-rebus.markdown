@@ -7,8 +7,6 @@ image: "img/rebus_cover.png"
 date:   2015-10-15 12:12:12
 ---
 
-# Exile Game Jam Fall 2015
-
 ![Translated sentence](img/rebus_cover.png)
 
 Rebus is a Chrome extension that translates the text on a website into images using Google Image Search.
@@ -17,10 +15,6 @@ Google search contains a model of our culture and way of thinking and this proje
 The image above is the result of translating “Hillary Clinton and Bernie Sanders have had their first real campaign trail brawl, and it’s about sexism.”, the first sentence in [this article](http://www.vox.com/identities/2015/11/5/9671830/bernie-sanders-sexism).
 
 UPDATE: Currently the extension is not fully functional due to recent changes in the Google search engine API.
-
-<img src="img/rebus_cover.png" alt="Translated sentence" style="
-    max-width: 100%;
-">
 
 ### Links
 
