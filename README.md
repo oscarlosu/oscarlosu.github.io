@@ -1,2 +1,0 @@
-# oscarlosu.github.io
-Portfolio
