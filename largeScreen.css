@@ -1,6 +1,12 @@
+/* GENERAL STYLING */
 .container {
     width: 100%;
     height: 100%;
+}
+
+.content {
+    overflow-x: hidden;
+    height: 100vh;
 }
 
 .sidebar {
@@ -10,6 +16,7 @@
     height: 100vh;
 }
 
+/* SIDEBAR STYLING */
 .logo {
     padding-top: 5vh;
 }
@@ -23,6 +30,20 @@
 .menu {
     list-style: none;
     text-align: center;
+    padding-left: 0;
+    width: 80%;
+    margin: auto;
+}
+.menu li {
+    margin-bottom: 0.5em;
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.menu li:hover {   
+    font-weight: 700;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
 }
 
 .menu h1 {
@@ -37,11 +58,8 @@
     margin-bottom: 2em;
 }
 
-.content {
-    overflow-x: hidden;
-    height: 100vh;
-}
 
+/* GRID STYLING */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -67,38 +85,13 @@
     padding-top: 5vh;
 }
 
-.menu { 
-    padding-left: 0;
-    width: 80%;
-    margin: auto;
-}
-
-.menu li {
-    margin-bottom: 0.5em;
-    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
-    font-weight: 400;
-    transition: 0.3s;
-}
-
-.menu li:hover {   
-    /*border-style: solid;*/    
-    /*border-width: 0px;
-    border-bottom-width: 1px;
-    border-color: black;*/
-    font-weight: 700;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
-}
-
-
 /* CARD STYLING */
 .card {
-    /* Add shadows to create the "card" effect */
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     border-radius: 5px;
 }
 
-/* On mouse-over, add a deeper shadow */
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
 }
@@ -126,6 +119,7 @@
     border-radius: 5px 5px 0 0;
 }
 
+/* GRID NAVIGATION STYLING */
 .gridNavigation {
     width: 100%;
     
@@ -137,22 +131,13 @@
     float:left;
     width: 5%;   
     margin-top: 4%; 
-
-    /*text-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;*/
 }
-
-/*.gridNavigation .previous:hover, .next:hover {
-     text-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
-}*/
 
 .gridNavigation .previous {
     margin-right: 2%;
 }
 
 .gridNavigation .previous, .next {
-  display: inline-block;
-  padding: 3px;
   font-size: 2em;
 }
 
@@ -165,3 +150,44 @@
     text-shadow: 4px 4px 4px rgba(0,0,0,0.4);
 }
 
+/* ABOUT PAGE STYLE */
+.profilePicture {
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.iconBar {
+    width: 100%;
+    margin: auto;
+    margin-left: 43%;
+}
+
+.iconBar .icon {
+    width: 4%;
+    margin-right: 1%;
+    float: left;
+
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 15px;
+
+}
+
+.iconBar .icon:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.iconBar .icon img {
+    width:100%;
+    display: block
+}
+
+.aboutText {
+    width: 550px;
+    max-width: 80%;
+    text-align: justify;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

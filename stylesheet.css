@@ -11,3 +11,12 @@ html, body
     margin: 0px; padding: 0px;
     color: #0F0326;
 }
+
+a:link, a:visited { 
+    color: inherit;
+    text-decoration: none;
+}
+
+a:link:active, a:visited:active { 
+    color: inherit;
+}
