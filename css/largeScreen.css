@@ -36,7 +36,11 @@
 }
 .menu li {
     margin-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
     font-weight: 400;
     transition: 0.3s;
 }
