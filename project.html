@@ -18,7 +18,7 @@
     <script>
       $(function(){
         Load(".sidebar", "/sidebar.html");
-        Load(".content", "/aboutContent.html");
+        Load(".content", "/projects/" + window.location.href.split('?')[1] + ".html");
       });
     </script>
 
@@ -37,4 +37,3 @@
 
   </body>
 </html>
-
