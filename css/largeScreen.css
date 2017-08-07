@@ -34,6 +34,7 @@
     width: 80%;
     margin: auto;
 }
+
 .menu li {
     margin-bottom: 0.5em;
     padding-top: 0.5em;
@@ -47,7 +48,7 @@
 
 .menu li:hover {   
     font-weight: 700;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
 }
 
 .menu h1 {
@@ -97,7 +98,7 @@
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
 }
 
 .label {
@@ -151,7 +152,7 @@
 }
 
 .hoverShadow:hover {
-    text-shadow: 4px 4px 4px rgba(0,0,0,0.4);
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.4);
 }
 
 /* ABOUT PAGE STYLE */
