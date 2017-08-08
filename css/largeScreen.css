@@ -6,7 +6,7 @@
 
 .content {
     overflow-x: hidden;
-    height: 100vh;
+    height: 100%;
 }
 
 .sidebar {
@@ -195,4 +195,24 @@
     margin: auto;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+/* PROJECT TEMPLATE STYLING */
+.projectContainer {
+    width: 80%;
+    margin: auto;
+    margin-left:20%;
+    margin-top: 5%;
+}
+
+.factsheet {
+    max-width: 20%;
+    float:left;
+    margin-right: 5%;
+}
+
+.projectDescription {
+    width: 550px;
+    max-width: 80%;
+    float:left;
 }
