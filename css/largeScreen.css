@@ -36,9 +36,9 @@
 }
 
 .menu li {
-    margin-bottom: 0.5em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    margin-bottom: 0.5vh;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
 
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
     border-radius: 5px;
@@ -52,15 +52,13 @@
 }
 
 .menu h1 {
-    font-size: 2em;
-    margin-top: 1em;
+    margin-top: 0.5vh;
     margin-bottom:0;
 }
 
 .menu h2 {
-    font-size: 1.2em;
-    margin-top: 0.2em;
-    margin-bottom: 2em;
+    margin-top: 0.5vh;
+    margin-bottom: 1.5vh;
 }
 
 
@@ -107,17 +105,16 @@
 
 .label .title, .subtitle {
     margin: 0;
-    margin-left: 10px;
+    margin-left: 0.5vw;
 }
 
 .label .title {
-    margin-top: 10px;
-    font-size: 1.5em;
+    margin-top: 1vh;
 }
 
 .label .subtitle {
-    margin-top: 5px;
-    padding-bottom: 10px;
+    margin-top: 0.5vw;
+    padding-bottom: 1vh;
 }
 
 .card img {
@@ -140,10 +137,6 @@
 
 .gridNavigation .previous {
     margin-right: 2%;
-}
-
-.gridNavigation .previous, .next {
-  font-size: 2em;
 }
 
 .hoverShadow {

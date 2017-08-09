@@ -10,6 +10,7 @@ html, body
 {
     margin: 0px; padding: 0px;
     color: #071108;
+    font-size: 1vw;
 }
 
 a:link, a:visited { 
@@ -19,4 +20,16 @@ a:link, a:visited {
 
 a:link:active, a:visited:active { 
     color: inherit;
+}
+
+.bigText {
+    font-size: 2vw;
+}
+
+.mediumText {
+    font-size: 1.5vw;
+}
+
+.smallText {
+    font-size: 0.5vw;
 }
