@@ -7,6 +7,7 @@
 .content {
     overflow-x: hidden;
     height: 100%;
+    overflow-y:visible;
 }
 
 .sidebar {
@@ -19,13 +20,58 @@
 /* SIDEBAR STYLING */
 .logo {
     padding-top: 5vh;
+    height: 25vw;
+    max-height: 300px;
+    perspective: 800px;
 }
 
-.logo img {
+/* Credit https://stackoverflow.com/questions/13630229/can-i-have-an-onclick-effect-in-css*/
+#logoControl {
+    display: none;
+}
+
+#logoControl:checked + label > .logoCard {
+    transform: rotateY( 180deg );
+}
+
+.logoCard:hover {
+    
+}
+
+.logoCard {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 1s;
+}
+
+/*.logoCard:focus  {
+  transform: rotateY( 180deg );
+}*/
+
+.logoCard img {
     width: 80%;
     display: block;
     margin: auto;
+    backface-visibility: hidden;
 }
+
+.logoCard figure {
+  margin: 0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+
+  
+}
+
+.logoCard .back {
+  transform: rotateY( 180deg );
+}
+
+
 
 .menu {
     list-style: none;
@@ -33,6 +79,7 @@
     padding-left: 0;
     width: 80%;
     margin: auto;
+    display: block;
 }
 
 .menu li {
@@ -159,6 +206,7 @@
     width: 100%;
     margin: auto;
     margin-left: 43%;
+    overflow:visible;
 }
 
 .iconBar .icon {
@@ -168,7 +216,7 @@
 
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    border-radius: 15px;
+    border-radius: 15px;   
 
 }
 
