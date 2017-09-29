@@ -6,7 +6,8 @@ function Load(where, what) {
 }
 
 function LoadPreviousPage(where) {
-    currentPage = (currentPage - 1) % pages.length;
+    currentPage = (currentPage - 1);
+    currentPage = currentPage < 0 ? pages.length - 1 : currentPage % pages.length;
     Load(where, pages[currentPage]);
 }
 
