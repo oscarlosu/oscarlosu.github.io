@@ -260,7 +260,7 @@
     margin-right: 5%;
 }
 
-.projectDescription {
+#projectDescription {
     width: 550px;
     max-width: 80%;
     float:left;
