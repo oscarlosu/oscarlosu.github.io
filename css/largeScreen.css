@@ -237,7 +237,7 @@
     display: block
 }
 
-.aboutText {
+#aboutText {
     width: 550px;
     max-width: 80%;
     text-align: justify;
