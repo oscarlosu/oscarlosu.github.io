@@ -211,13 +211,13 @@
 .iconBar {
     width: 100%;
     margin: auto;
-    margin-left: 43%;
+    margin-left: 45%;
     
 
 }
 
 .iconBar .icon {
-    width: 4%;
+    width: 3%;
     margin-right: 1%;
     float: left;
     margin-bottom: 20px;

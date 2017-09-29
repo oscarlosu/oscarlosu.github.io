@@ -11,6 +11,7 @@ html, body
     margin: 0px; padding: 0px;
     color: #071108;
     font-size: 1vw;
+    /*font-family: 'Harmattan', sans-serif;*/
 }
 
 a:link, a:visited { 
@@ -24,12 +25,18 @@ a:link:active, a:visited:active {
 
 .bigText {
     font-size: 1.5vw;
+    font-weight: 600;
 }
 
 .mediumText {
-    font-size: 1.2vw;
+    font-size: 1vw;
+    font-weight: 100;
 }
 
 .smallText {
     font-size: 0.8vw;
+}
+
+.smallestText {
+    font-size: 0.7vw;
 }
