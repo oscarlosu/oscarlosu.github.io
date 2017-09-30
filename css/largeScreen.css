@@ -206,7 +206,8 @@
 .profilePicture {
     width: 40%;
     margin: auto;
-    margin-top: 5%;
+    /*margin-top: 5%;*/
+    padding-top: 7vh;
 }
 
 .iconBar {
@@ -252,7 +253,7 @@
     width: 80%;
     margin: auto;
     margin-left:20%;
-    margin-top: 5%;
+    padding-top: 5vh;
 }
 
 .factsheet {
