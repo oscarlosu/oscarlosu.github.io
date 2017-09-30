@@ -14,6 +14,11 @@ html, body
     /*font-family: 'Harmattan', sans-serif;*/
 }
 
+/*body:after {
+    content: url(/img/profileCircle.png);
+    display: none;
+}*/
+
 a:link, a:visited { 
     color: inherit;
     text-decoration: none;
