@@ -267,3 +267,7 @@
     max-width: 80%;
     float:left;
 }
+
+figcaption {
+    font-style: italic;
+}
