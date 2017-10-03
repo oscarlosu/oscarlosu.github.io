@@ -51,7 +51,7 @@
     height:80%;
     display: block;
     margin: auto;
-    backface-visibility: hidden;
+    
 
     /*https://ctrlq.org/code/19282-css-round-images*/
     background-size: cover;
@@ -69,6 +69,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
+  -webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
   backface-visibility: hidden;
 
   
