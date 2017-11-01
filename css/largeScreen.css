@@ -310,8 +310,6 @@ figcaption {
     color: #ccc;
     padding-top: 1vh;
     text-align: justify;
-    display: block; 
-    margin:auto; 
 }
 
 .captionOpenModal {    
@@ -322,11 +320,6 @@ figcaption {
     width:auto; 
     display: block; 
     margin:auto;    
-}
-
-.captionModalContainer {
-    display: block; 
-    margin:auto; 
 }
 
 /* Add Animation - Zoom in the Modal */
