@@ -12,6 +12,7 @@ html, body
     color: #071108;
     font-size: 1vw;
     text-align: justify;    
+    
     /*font-family: 'Harmattan', sans-serif;*/
 }
 
@@ -32,17 +33,21 @@ a:link:active, a:visited:active {
 .bigText {
     font-size: 1.5vw;
     font-weight: 600;
+    font-family: Cambria, Georgia, serif;
 }
 
 .mediumText {
     font-size: 1vw;
     font-weight: 100;
+    font-family: Cambria, Georgia, serif;
 }
 
 .smallText {
     font-size: 0.8vw;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 .smallestText {
     font-size: 0.7vw;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }

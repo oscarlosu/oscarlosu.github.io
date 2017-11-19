@@ -1,0 +1,40 @@
+Notes on Resume
+
+I like this resume because the information is displayed in a clear way, and the icons are cute, and the visual design is soothing.
+
+I think it could be made better with stronger writing. 
+ 
+"Worked on Keyboard Sports using Unity as a programmer (mainly C#). Prototyped gameplay and contribued to its design." 
+
+- What is something that you accomplished on this project, a problem you solved?
+- Mention something that shows that you can do more than just "do the job." 
+- Use more powerful verbs. 
+- Instead of "worked on" say something like "Built X and Y feature for Z" or "Responsible for designing and implementing key gameplay features for W" 
+
+Game Design Teaching Assistant 
+- Change "Teacher" to "Teaching"
+
+"Supervised student projects" 
+- Could you say something a tad more specific? Can you highlight the value you brought to the table? 
+- Something like: "Helped students design and develop their first games"
+
+"Designed and conducted introduction days for new students"
+- Again, why was the work you did valuabe?
+- Something like: "Introduced game design thinking to incoming game designers and programmers"
+
+Title
+Consider changing the title "Game Developer" to "Game Designer and Developer"
+
+
+Notes on Portfolio
+
+This looks great! I like way you have organized the information. I also like the way you presented Rebus, the thinking behind it, like you are teaching something new to the reader. 
+
+For writing about the other projects, make sure to also mention challenges you overcame and problems you solved, as well as what you learned and why it was interesting to you.
+
+Style
+I am not a fan of the typography.
+Maybe use the same style you use on your resume? 
+
+Rebus
+In the caption for the first image, say that this is an output/screenshot from the project. Like so: 'Sample output from Rebus extension. It reads "Hillary Clinton..."'
