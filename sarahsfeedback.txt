@@ -1,0 +1,24 @@
+Sarah Notes
+All in all I think the colour scheme, the set up and icons are looking amazing. These are just smaller things, which might annoy certain people (such as me). Chuuu ~ 
+
+#1 Gameplay Programmer
+I'm not sure I understand the sentence "feeding back to their vision to develop it." at the end of the Triband part. I think you are already making it clear that you elaborate on the core idea. Perhaps a more elegant way could be: "Designed and implemented prototypes that elaborated on the vision and core ideas of Keyboard Sports and What the Golf?. 
+
+#2 Game Design Teaching Assistant, MSc Games Introduction Tutor, Banking Analytics Support Intern
+Missing a . after the final sentence (same applied to MSc Games and the Double Degree ... in general everywhere. Either don't have it at the top or add it at the end of every sentence. I would personally have it, but that is taste and preference. 
+
+I would also add that you welcomed the new students and made them feel comfortable starting at this new place called university. That shows you are an open and welcoming person (which I think you are and people have only been telling me how great you and Paul made them feel)
+
+#3 Education icon
+I think the top of the icon is a biiiit too close to the Banking text. I would find a bit of space and add it there (even if it means moving the Languages and Volunteer Work a bit down and creating a smaller margin). Things being too crammed, especially at the center of the page just annoys me a lot. 
+
+#4 Margins
+Seems like the left margin is much smaller than the right margin. I would keep the symmetrical (but I am guessing it is larger on the right side as it follows the headers margin). This annoys as a reader, but I am also a huge fan of symmetry in text set up. 
+
+#5 Skills
+The Development and Game Design are visually wider than Graphics and Music. If you are doing it asymmetrical, I would make the Development and Game Design a tad wider yet, so you don't get that ugly divide of "Proce-dural" and "Pro-graming"
+
+#6 The language icon
+Consider moving it a bit up so it is more on line with language (just a bit). All the other icons are sort of centered with their belonging text. Could also be that this will make it look too cluttered. But... 
+
+
