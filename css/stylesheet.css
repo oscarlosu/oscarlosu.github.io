@@ -34,6 +34,7 @@ a:link:active, a:visited:active {
     font-size: 1.5vw;
     font-weight: 600;
     font-family: Cambria, Georgia, serif;
+    margin-top:0;
 }
 
 .mediumText {
