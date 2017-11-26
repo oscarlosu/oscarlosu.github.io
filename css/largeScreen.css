@@ -191,6 +191,12 @@
     margin-top: 4%; 
 }
 
+.gridNavigation .next {
+    float:left;
+    width: 5%;   
+    margin-top: 4%; 
+}
+
 .gridNavigation .previous {
     margin-right: 2%;
 }
