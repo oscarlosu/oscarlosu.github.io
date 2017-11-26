@@ -8,6 +8,7 @@
     overflow-x: hidden;
     height: 100%;
     overflow-y:visible;
+    padding-bottom:5vh;
 }
 
 .sidebar {
@@ -254,7 +255,7 @@
     width: 80%;
     margin: auto;
     margin-left:20%;
-    margin-top: 5vh;
+    margin-top: 5vh;    
 }
 
 .factsheet {
