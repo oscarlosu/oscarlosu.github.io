@@ -1,0 +1,77 @@
+<div class="projectContainer">    
+  
+    <div class="projectMain">
+      <div class="factsheet">
+        <h2 class="bigText">Controlling Hands in VR</h1>
+        <p class="smallText">
+          <b>Role:</b>
+          </br>
+          <span>Designer and Programmer</span>
+        </p>
+        <p class="smallText">
+          <b>Date:</b>
+          </br>
+          <span>Spring 2017</span>
+        </p>
+        <p class="smallText">
+          <b>For:</b>
+          </br>
+          <span>MSc in Games Thesis</span>
+        </p>
+        <p class="smallText">
+          <b>Engine:</b>
+          </br>
+          <span>Unity</span>
+        </p>
+        <p class="smallText">
+            <b>Links:</b>
+            </br>
+            <span><a href="resources/thesis-oscar-losada.pdf"><u>Thesis</u></a></span>
+          </p>
+      </div>
+      
+      <div id="projectDescription" class="smallText">
+          <div class="openModalContainer" id="jobSim">
+            </div>
+            <script>
+                MakeModal("jobSim", "/img/vrhands/TouchStatic2.gif", 
+                'One of the problems addressed by the thesis can be seen in <a href="https://jobsimulatorgame.com/"><u>Job Simulator</u></a>: ' + 
+                'when the user\'s real hands go through virtual objects, what should happen with the virtual hands?');
+            </script>  
+          <p>
+              Consumer-oriented Virtual Reality (VR) hardware now allows users to interact with virtual environments 
+              with their own hands through the use of hand-held spatially tracked controllers. However, the physics 
+              constraints of the virtual environment do not apply to the user’s real hands. This implies that if the virtual 
+              hands follow the movements of the real hands exactly, the user can make the virtual hands break the expected physics 
+              rules of the virtual environment e.g. by moving their real hands inside of virtual objects.
+          </p>
+          <div class="openModalContainer" id="pos"></div>
+          <script>
+              MakeModal("pos", "/img/vrhands/Pos.gif", 
+              'The result of adjusting the virtual hand\'s position');
+          </script>  
+          <p>
+              We addressed the problem by prototyping ways of controlling hands in VR that allow the virtual hands to deviate 
+              from the tracking data by adjusting the position, rotation and finger placement when there are conflicts between 
+              the user input and the virtual environment constraints.
+          </p>
+          <div class="openModalContainer" id="rot"></div>
+          <script>
+              MakeModal("rot", "/img/vrhands/Pos-Rot.gif", 
+              'The result of adjusting the virtual hand\'s rotation and position');
+          </script>  
+          <p>
+              Much like the input filtering or <a href="https://twitter.com/Gaohmee/status/903510060197744640"><u>hidden mechanics</u></a> often present in games to produce certain feelings in the player, 
+              our hypothesis was that it is possible to adjust the virtual hands without reducing the sense of presence achieved 
+              by one-to-one hand controllers by respecting the user's intentions and expectations about the outcomes of the movements 
+              of their hands.              
+          </p>
+          <div class="openModalContainer" id="finger"></div>
+          <script>
+              MakeModal("finger", "/img/vrhands/Pos-Fin.gif", 
+              'The result of adjusting the virtual hand\'s position and fingers');
+          </script>       
+      </div>
+    </div>
+  
+  </div>
