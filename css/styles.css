@@ -34,6 +34,8 @@ body, .container {
   justify-content:center;
 }
 
+/* Grid */
+
 .grid {
     display: flex;
     flex-flow: row wrap;
@@ -47,6 +49,18 @@ body, .container {
   max-width:40vmin;
   height: 10em;
   max-height:40vmin;
+}
+
+.clickable {
+  transition: all 0.3s ease-out;  
+  border-radius: 1000vmax;
+  border:0.8em solid #3a4750;
+}
+
+.clickable:hover {
+  transform: scale(1.1);
+  border-radius: 1000vmax;
+  border:0.8em solid #3a4750;
 }
 
 /* Top bar */
