@@ -53,31 +53,27 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <circle
+       style="fill:#2e2b36;fill-opacity:1;stroke:none;stroke-width:0.75675672;stroke-opacity:1"
+       id="path1459"
+       cx="40"
+       cy="40"
+       r="40" />
     <g
-       id="g2101"
-       transform="matrix(3.7795276,0,0,3.7795276,-45.263445,-67.173008)">
+       id="g1471"
+       transform="matrix(3.7795276,0,0,3.7795276,-1810.3571,-73.501787)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path1461"
+         d="m 485.91369,29.48022 4.39397,-2.315105 0.14173,8.220983 3.29012,0.0048 -4.51852,1.885047 -0.0945,-7.843005 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
-         r="10.583333"
-         cy="28.356192"
-         cx="22.559286"
-         id="path1459"
-         style="fill:#3a4750;fill-opacity:1;stroke:none;stroke-width:0.20022522;stroke-opacity:1" />
-      <g
-         transform="translate(-467.01436,-1.6744893)"
-         id="g1471">
-        <path
-           style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 485.91369,29.48022 4.39397,-2.315105 0.14173,8.220983 3.29012,0.0048 -4.51852,1.885047 -0.0945,-7.843005 z"
-           id="path1461"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccc" />
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-           id="path1465"
-           cx="489.76132"
-           cy="24.172459"
-           r="1.4198694" />
-      </g>
+         r="1.4198694"
+         cy="24.172459"
+         cx="489.76132"
+         id="path1465"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1" />
     </g>
   </g>
 </svg>

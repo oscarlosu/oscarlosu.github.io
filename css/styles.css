@@ -5,6 +5,10 @@ html {
     width:100%; height:100%;
     background:#2e2b36;
     color:white;
+
+    /* background:#100f10 url(../img/mutazione_background.svg) center center no-repeat;
+    background-attachment: fixed;
+    background-size:auto 100%; */
 }
 
 body, .container {
@@ -19,12 +23,15 @@ body, .container {
 }
 
 .topbar {
-  flex-basis:5vh;
+  flex-basis:10vh;
   align-self: flex-start;
 }
 
 .content {
-  flex-basis:11.5em;
+  flex-basis:90vh;
+  display:flex;
+  flex-flow:column;
+  justify-content:center;
 }
 
 .grid {
@@ -48,10 +55,16 @@ body, .container {
     flex-flow: row wrap;
     justify-content: flex-start;
     align-items: center;
+    
+    background: #3a4750;
+    padding: 0.3em 0.8em 0.3em 0.3em;
+    border-radius: 1000vh;
+    margin-top:5vh;
+    margin-left:3vh;
 }
 
 .title-group > * {
-  margin:0.5em;
+  /* margin:0.5em; */
 }
 
 .title-icon {  
@@ -64,6 +77,11 @@ body, .container {
   flex-flow: column wrap;
   justify-content: center;
   align-items: flex-start;
+  margin-left:1em;
+
+  /* background: #3a4750;
+  padding: 0.3em 0.8em 0.3em 0.8em;
+  border-radius: 16px; */
 }
 
 .title-text-title {
