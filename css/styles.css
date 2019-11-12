@@ -51,16 +51,16 @@ body, .container {
   max-height:40vmin;
 }
 
-.clickable {
+.gridElement {
   transition: all 0.3s ease-out;  
   border-radius: 1000vmax;
-  border:0.8em solid #3a4750;
+  border:0.4em solid #3a475000;
 }
 
-.clickable:hover {
-  transform: scale(1.1);
+.gridElement:hover {
+  transform: scale(1);
   border-radius: 1000vmax;
-  border:0.8em solid #3a4750;
+  border:0.4em solid #3a4750ff;
 }
 
 /* Top bar */
