@@ -123,3 +123,74 @@ body, .container {
   font-size:0.75em;
   color:#d82c59ff;
 }
+
+/* ABOUT */
+
+/*.aboutContent {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}*/
+.aboutContent {
+  width: 20em;
+  max-width:60vmin;
+}
+
+.aboutContent > * {
+  margin-bottom:1em;
+}
+
+.aboutPicture {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+
+.aboutText {
+  font-size:0.7em;
+}
+
+.iconBar {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconBar > * {
+  margin-left:0.2em;
+  margin-right:0.2em;
+}
+
+.icon
+{
+  width:2.5em;
+  height:auto;
+
+  transition: all 0.3s ease-out;  
+  border-radius: 0.5em;
+  background: #3a343200;
+  border:0.4em solid #3a343200;
+}
+
+.icon:hover
+{
+  background: #3a3432ff;
+  border:0.4em solid #3a3432ff;
+}
+
+/*.aboutContent > * {
+  margin:1em;
+  width: 50em;
+  max-width:40vmin;
+  height: 10em;
+  max-height:40vmin;
+}*/
+
+/*.profilePicture
+{
+  width: 60vw;
+  align-self: center;
+}*/

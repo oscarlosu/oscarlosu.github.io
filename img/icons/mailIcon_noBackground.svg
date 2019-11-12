@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg1380"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mailIcon_noBackground.svg">
+  <defs
+     id="defs1374" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-41.177618"
+     inkscape:cy="-10.737372"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1377">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13334)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:0.1321664px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.50592,268.11392 c -1.09945,0 -2.187082,0.23939 -3.16828,0.61438 2.267451,6.22013 8.253688,9.76348 13.989957,12.5169 2.605347,0.83374 5.210957,0.83374 7.816307,0 5.256225,-2.52299 9.323685,-7.29152 11.218746,-12.56445 -0.947923,-0.34569 -1.986293,-0.56683 -3.037609,-0.56683 z M 0.162912,276.46143 0,292.38757 c 1.061131,0.45475 2.281525,0.73818 3.505916,0.73818 h 26.819122 c 1.237684,0 2.47285,-0.28832 3.541629,-0.75174 l -0.154408,-14.91478 c -2.41394,2.4031 -4.785916,4.76124 -8.963458,6.91184 -5.210786,2.0843 -7.815351,2.0842 -13.026048,0 z"
+       id="path4816-2" />
+  </g>
+</svg>
