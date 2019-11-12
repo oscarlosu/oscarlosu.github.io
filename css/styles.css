@@ -55,15 +55,21 @@ body, .container {
   transition: all 0.3s ease-out;  
   border-radius: 1000vmax;
   border:0.4em solid #3a343200;
+  cursor: default;
 }
 
 .gridElement:hover {
   transform: scale(1);
   border-radius: 1000vmax;
   border:0.4em solid #3a3432ff;
+  cursor: pointer;
 }
 
 /* Top bar */
+.title-link {
+  text-decoration: none;
+}
+
 .title-group {
   transition: all 0.3s ease-out;
 
@@ -78,12 +84,13 @@ body, .container {
   margin-top:5vh;
   margin-left:3vh;
 
-
+  cursor: default;
 }
 
 .title-group:hover
 {
   background: #3a3432ff;
+  cursor: pointer;
 }
 
 .title-group > * {
