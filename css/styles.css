@@ -3,7 +3,7 @@ html {
     font-size:calc(1em + 1vmax);
 
     width:100%; height:100%;
-    background:#2e2b36;
+    background:#222222;
     color:white;
 
     /* background:#100f10 url(../img/mutazione_background.svg) center center no-repeat;
@@ -54,27 +54,36 @@ body, .container {
 .gridElement {
   transition: all 0.3s ease-out;  
   border-radius: 1000vmax;
-  border:0.4em solid #3a475000;
+  border:0.4em solid #3a343200;
 }
 
 .gridElement:hover {
   transform: scale(1);
   border-radius: 1000vmax;
-  border:0.4em solid #3a4750ff;
+  border:0.4em solid #3a3432ff;
 }
 
 /* Top bar */
 .title-group {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
-    align-items: center;
-    
-    background: #3a4750;
-    padding: 0.3em 0.8em 0.3em 0.3em;
-    border-radius: 1000vh;
-    margin-top:5vh;
-    margin-left:3vh;
+  transition: all 0.3s ease-out;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+  
+  background: #3a343200;
+  padding: 0.3em 0.8em 0.3em 0.3em;
+  border-radius: 1000vh;
+  margin-top:5vh;
+  margin-left:3vh;
+
+
+}
+
+.title-group:hover
+{
+  background: #3a3432ff;
 }
 
 .title-group > * {
@@ -100,8 +109,10 @@ body, .container {
 
 .title-text-title {
   font-size:1em;
+  color:#f4f0bfff;
 }
 
 .title-text-subtitle {
   font-size:0.75em;
+  color:#d82c59ff;
 }
