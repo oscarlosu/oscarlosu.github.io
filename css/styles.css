@@ -169,19 +169,18 @@ body, .container {
 
 .icon
 {
-  width:2.5em;
+  width:2em;
   height:auto;
 
   transition: all 0.3s ease-out;  
   border-radius: 0.5em;
   background: #3a343200;
-  border:0.4em solid #3a343200;
+  padding: 0.3em 0.3em 0.1em 0.3em;
 }
 
 .icon:hover
 {
   background: #3a3432ff;
-  border:0.4em solid #3a3432ff;
 }
 
 /* PROJECT */
