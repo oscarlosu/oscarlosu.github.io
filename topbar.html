@@ -1,11 +1,23 @@
+<script>
+	const container = document.getElementById("title-group");
+	function HighlightContainer()
+	{
+		container.style.backgroundColor = "#3a3432ff";
+	}
+	function UnhighlightContainer()
+	{		
+		container.style.backgroundColor = "#3a343200";
+	}
+</script>
 
-	<div class="title-group">
+
+	<div class="title-group" id="title-group">
 	    <img class="title-icon" src="/img/profileCircle.png">
 	    <div class="title-text-group">
 			<span class="title-text-title">Óscar Losada Suárez</span>
 			<div class="navigationGroup">
-				<a class="navLink" href="/index.html">Portfolio</a>
-				<a class="navLink" href="/about.html">About</a>				
+				<a class="navLink" href="/index.html" onmouseenter="HighlightContainer()" onmouseleave="UnhighlightContainer()">Portfolio</a>
+				<a class="navLink" href="/about.html" onmouseenter="HighlightContainer()" onmouseleave="UnhighlightContainer()">About</a>				
 			</div>			
 	    </div>    
 	</div>

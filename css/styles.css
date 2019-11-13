@@ -78,6 +78,11 @@ body, .container {
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: center;
+
+  transition: all 0.3s ease-out;
+  background: #3a343200;
+  padding: 0.3em 0.8em 0.3em 0.8em;
+  border-radius: 1000vh;
 }
 
 .title-icon {  
@@ -103,8 +108,8 @@ body, .container {
 }
 
 .navigationGroup {
- margin-left:auto;
- margin-right:auto;
+ /* margin-left:auto;
+ margin-right:auto; */
 }
 
 .navLink {  
@@ -113,16 +118,19 @@ body, .container {
 
   transition: all 0.3s ease-out;
   background: #3a343200;
-  padding: 0.3em 0.8em 0.3em 0.8em;
+  /* padding: 0.3em 0.8em 0.3em 0.8em; */
   border-radius: 1000vh;
 
   cursor: default;
   text-decoration: none;
+
+  margin-right:1em;
 }
 
 .navLink:hover {
-  background: #3a3432ff;
+  /* background: #3a3432ff; */
   cursor: pointer;
+  text-decoration: underline;
 }
 
 /* ABOUT */
