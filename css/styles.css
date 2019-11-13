@@ -2,7 +2,7 @@ html {
     /* https://bits.theorem.co/css-pro-tips-responsive-font-sizes-and-when-to-use-which-units/ */
     font-size:calc(1em + 1vmax);
 
-    width:100%; height:100%;
+    /* width:100%; height:100%; */
     background:#222222;
     color:white;
 
@@ -12,7 +12,7 @@ html {
 }
 
 body, .container {
-  width:100%; height:100%;
+  /* width:100%; height:100%; */
 }
 
 .container {
@@ -71,30 +71,13 @@ body, .container {
 }
 
 .title-group {
-  transition: all 0.3s ease-out;
+  margin-top:5vh;
+  margin-left:3vh;
 
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: center;
-  
-  background: #3a343200;
-  padding: 0.3em 0.8em 0.3em 0.3em;
-  border-radius: 1000vh;
-  margin-top:5vh;
-  margin-left:3vh;
-
-  cursor: default;
-}
-
-.title-group:hover
-{
-  background: #3a3432ff;
-  cursor: pointer;
-}
-
-.title-group > * {
-  /* margin:0.5em; */
 }
 
 .title-icon {  
@@ -108,10 +91,6 @@ body, .container {
   justify-content: center;
   align-items: flex-start;
   margin-left:1em;
-
-  /* background: #3a4750;
-  padding: 0.3em 0.8em 0.3em 0.8em;
-  border-radius: 16px; */
 }
 
 .title-text-title {
@@ -119,9 +98,39 @@ body, .container {
   color:#f4f0bfff;
 }
 
-.title-text-subtitle {
+/* .title-text-subtitle {
   font-size:0.75em;
   color:#d82c59ff;
+  margin-right:1em;
+} */
+
+.navigationGroup {
+
+}
+
+.navigationGroup {
+ margin-left:auto;
+ margin-right:auto;
+}
+
+.navLink {  
+  font-size:0.75em;
+  color:#d82c59ff;
+  /* margin-left:1em;
+  margin-right:1em; */
+
+  transition: all 0.3s ease-out;
+  background: #3a343200;
+  padding: 0.3em 0.8em 0.3em 0.8em;
+  border-radius: 1000vh;
+
+  cursor: default;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  background: #3a3432ff;
+  cursor: pointer;
 }
 
 /* ABOUT */
@@ -149,7 +158,7 @@ body, .container {
 }
 
 .aboutText {
-  font-size:0.7em;
+  font-size:0.6em;
 }
 
 .iconBar {
@@ -181,16 +190,42 @@ body, .container {
   border:0.4em solid #3a3432ff;
 }
 
-/*.aboutContent > * {
-  margin:1em;
-  width: 50em;
-  max-width:40vmin;
-  height: 10em;
-  max-height:40vmin;
-}*/
+/* PROJECT */
 
-/*.profilePicture
-{
-  width: 60vw;
-  align-self: center;
-}*/
+.projectContainer {
+  
+}
+
+.projectContent {
+  /* display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center; */
+}
+
+.projectGroup {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin-top:2em;
+  margin-bottom:2em;
+}
+
+.projectGroup > * {
+  margin-left:1em;
+  margin-right:1em;
+}
+
+.projectTextGroup {
+  font-size:0.6em;
+  width: 30em;
+  max-width:80vw;
+}
+
+.projectVideo {
+  width:640px;
+  height:auto;
+  max-width:80vw;
+}
