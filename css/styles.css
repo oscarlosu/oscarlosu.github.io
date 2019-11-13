@@ -98,12 +98,6 @@ body, .container {
   color:#f4f0bfff;
 }
 
-/* .title-text-subtitle {
-  font-size:0.75em;
-  color:#d82c59ff;
-  margin-right:1em;
-} */
-
 .navigationGroup {
 
 }
@@ -116,8 +110,6 @@ body, .container {
 .navLink {  
   font-size:0.75em;
   color:#d82c59ff;
-  /* margin-left:1em;
-  margin-right:1em; */
 
   transition: all 0.3s ease-out;
   background: #3a343200;
@@ -135,12 +127,6 @@ body, .container {
 
 /* ABOUT */
 
-/*.aboutContent {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-}*/
 .aboutContent {
   width: 20em;
   max-width:60vmin;
