@@ -81,7 +81,7 @@ body, .container {
 
   transition: all 0.3s ease-out;
   background: #3a343200;
-  padding: 0.3em 0.8em 0.3em 0.8em;
+  padding: 0.3em 1.5em 0.3em 0.8em;
   border-radius: 1000vh;
 }
 
@@ -137,7 +137,8 @@ body, .container {
 
 .aboutContent {
   width: 20em;
-  max-width:60vmin;
+  max-width:80vw;
+  margin-top:2em;
 }
 
 .aboutContent > * {
