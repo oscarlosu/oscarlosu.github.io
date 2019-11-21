@@ -215,14 +215,15 @@ body, .container {
 
 .projectTextGroup {
   font-size:0.6em;
-  width: 30em;
+  width: 640px;
   max-width:80vw;
 }
 
 .projectVideo {
-  width:640px;
-  height:auto;
-  max-width:80vw;
+  width: 640px;
+  height: 360px;
+  max-width: 80vw;
+  max-height: 44.9999vw;
 }
 
 .projectTitleGroup {
