@@ -54,14 +54,15 @@ body, .container {
 .gridElement {
   transition: all 0.3s ease-out;  
   border-radius: 1000vmax;
-  border:0.4em solid #3a343200;
+  /*border:0.4em solid #3a343200; IE and Edge dont support hex colors with alpha*/ 
+  border:0.4em solid rgba(58, 52, 50, 0);
   cursor: default;
 }
 
 .gridElement:hover {
   transform: scale(1);
   border-radius: 1000vmax;
-  border:0.4em solid #3a3432ff;
+  border:0.4em solid rgba(58, 52, 50, 1);;
   cursor: pointer;
 }
 
@@ -80,7 +81,7 @@ body, .container {
   align-items: center;
 
   transition: all 0.3s ease-out;
-  background: #3a343200;
+  background: rgba(58, 52, 50, 0);
   padding: 0.3em 1.5em 0.3em 0.8em;
   border-radius: 1000vh;
 }
@@ -100,7 +101,8 @@ body, .container {
 
 .title-text-title {
   font-size:1em;
-  color:#f4f0bfff;
+  /*color:#f4f0bfff;*/
+  color:rgba(244, 240, 191, 1);
 }
 
 .navigationGroup {
@@ -114,10 +116,12 @@ body, .container {
 
 .navLink {  
   font-size:0.75em;
-  color:#d82c59ff;
+  /*color:#d82c59ff;*/
+  color:rgba(216, 44, 89, 1);
 
   transition: all 0.3s ease-out;
-  background: #3a343200;
+  /*background: #3a343200;*/
+  background: rgba(58, 52, 50, 0);
   /* padding: 0.3em 0.8em 0.3em 0.8em; */
   border-radius: 1000vh;
 
@@ -179,13 +183,15 @@ body, .container {
 
   transition: all 0.3s ease-out;  
   border-radius: 0.5em;
-  background: #3a343200;
+  /*background: #3a343200;*/
+  background:rgba(58, 52, 50, 0);
   padding: 0.3em 0.3em 0.1em 0.3em;
 }
 
 .icon:hover
 {
-  background: #3a3432ff;
+  /*background: #3a3432ff;*/
+  background:rgba(58, 52, 50, 1)
 }
 
 /* PROJECT */

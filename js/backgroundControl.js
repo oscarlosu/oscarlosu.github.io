@@ -7,5 +7,5 @@ function SetBackgroundImage(filePath) {
 
 function SetBackgroundDefault(caller) {
     console.log(caller);
-    document.documentElement.style.background = "#2e2b36";
+    document.documentElement.style.background = "rgba(58, 52, 50, 1)";
 }
