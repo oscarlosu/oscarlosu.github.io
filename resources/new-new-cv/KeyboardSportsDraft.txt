@@ -5,7 +5,7 @@ gifs:
 
 As a gameplay and level designer and programmer in Keyboard Sports, I created prototypes that explored the core idea of the game: each key on the keyboard is a position in the game's world.
 
-To find gameplay ideas, I purposefully tried to let go of all our pre-conceived, pre-established conventions and ways of using keyboards and instead thought of the keyboard as if it were an object I didn't know. For instance, I brought my attention to the physical experience of interaction with it with our hands (...does it need to be with our hands?). We were trying to create the experience of rediscovery of a very familiar object.
+To find gameplay ideas, I purposefully tried to let go of all our pre-conceived, pre-established conventions and ways of using keyboards and instead thought of the keyboard as if it were an object I didn't know. For instance, I brought my attention to the physical experience of interacting with it with our hands (...does it need to be with our hands?). We were trying to create the experience of rediscovery of a very familiar object.
 
 One of my prototypes was a three-legged robot where each leg moves to the keys you press and you need to move through levels without tripping or losing balance. The tension of holding down multiple keys at the same time provides a small interaction challenge and also brings the attention of the player to the sensation of the interaction and helps with the sense of embodiment of the fingers as the legs of the robot.
 
