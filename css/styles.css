@@ -156,6 +156,10 @@ body, .container {
   font-size:0.6em;
 }
 
+.aboutText > * {
+  margin-bottom:1em;
+}
+
 .iconBar {
   display: flex;
   flex-flow: row wrap;
