@@ -227,6 +227,7 @@ body, .container {
   font-size:0.6em;
   width: 640px;
   max-width:80vw;
+  margin-top:1em;
 }
 
 .projectVideo {
