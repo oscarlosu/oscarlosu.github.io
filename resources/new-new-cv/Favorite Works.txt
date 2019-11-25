@@ -1,5 +1,5 @@
 Favorite Works
-Wong Kar Wai - Chungkin Express, 2048
+Wong Kar Wai - Chungkin Express, 2046
 Akira Kurosawa - The Seven Samurai
 Lars von Trier - Dancer in the Dark
 David Lynch - Inland Empire
@@ -10,6 +10,8 @@ Dostoievsky - Crime and Punishment
 George Orwell - 1984
 Bertrand Russell - Why I Am Not a Christian
 Julio Cortazar - Rayuela (Hopscotch)
+Demian - Hermann Hesse
+The Teachings of Don Juan - Carlos Castaneda
 
 Tom Waits
 Leonard Cohen
