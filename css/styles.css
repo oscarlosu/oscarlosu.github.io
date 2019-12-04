@@ -16,10 +16,7 @@ body, .container {
 }
 
 .container {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: column;
   justify-content: center;
   align-items: center;
@@ -31,10 +28,7 @@ body, .container {
 }
 
 .content {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-basis:90vh;
   flex-flow:column;
   justify-content:center;
@@ -43,10 +37,7 @@ body, .container {
 /* Grid */
 
 .grid {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
@@ -84,10 +75,7 @@ body, .container {
   margin-top:5vh;
   margin-left:3vh;
 
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: center;
@@ -104,10 +92,7 @@ body, .container {
 }
 
 .title-text-group {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: column wrap;
   justify-content: center;
   align-items: flex-start;
@@ -180,10 +165,7 @@ body, .container {
 }
 
 .iconBar {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
@@ -226,10 +208,7 @@ body, .container {
 }
 
 .projectGroup {
-  display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
