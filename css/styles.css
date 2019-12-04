@@ -16,7 +16,7 @@ body, .container {
 }
 
 .container {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: column;
   justify-content: center;
   align-items: center;
@@ -28,7 +28,7 @@ body, .container {
 }
 
 .content {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: -webkit-box;
   flex-basis:90vh;
   flex-flow:column;
   justify-content:center;
@@ -37,7 +37,7 @@ body, .container {
 /* Grid */
 
 .grid {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
@@ -75,7 +75,7 @@ body, .container {
   margin-top:5vh;
   margin-left:3vh;
 
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: center;
@@ -92,7 +92,7 @@ body, .container {
 }
 
 .title-text-group {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: column wrap;
   justify-content: center;
   align-items: flex-start;
@@ -165,7 +165,7 @@ body, .container {
 }
 
 .iconBar {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
@@ -208,7 +208,7 @@ body, .container {
 }
 
 .projectGroup {
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
